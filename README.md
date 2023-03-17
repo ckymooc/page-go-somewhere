@@ -1,2 +1,2 @@
 # page-go-somewhere
-noting
+page redirect
